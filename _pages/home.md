@@ -11,8 +11,8 @@ permalink: /
 - [0X-0X-2022]  &ldquo;A few significant things and assignments&rdquo; is accomplished!
 - [03-01-2022]  <b> Start creating personal homepage and learning records -->
 
-<hr style="height:1px;border:none;border-top:1px solid #6666;" /> 
 
+------
 ### About me
 I am a Master student who majors in the Control Engineering at the Department of Automation,Shanghai Jiao Tong University. My current research interests lie in Systems and Control Theory, Formal Methods, Discrete-Event Systems and Industrial Control Safety and Security.
 
@@ -32,6 +32,6 @@ The idea behind these “smart tips” is to use the technologies that were deve
 One gains the flexibility of using different functionalities that are known from the fields of nanofabrication and mesoscopic physics. We are collaborating with the group Simon Groeblacher at TU Delft to realize this concept, benefitting from their unparalleled micro/nano fabrication know how.  A prototype of a smart tip is shown to the left. See publications in Microsyst Nanoeng, Nanotechnology, and PRB.
 
 ------
-#### DEMO 
+### DEMO 
 We are a dynamic research group at the [Leiden Institute of Physics](http://www.physics.leidenuniv.nl). Our aim is to explore and understand [quantum materials](http://condensedconcepts.blogspot.nl/2013/05/what-is-quantum-matter.html), including strange metals, high-temperature superconductors, and quantum critical electron matter.
 
