@@ -8,7 +8,7 @@ permalink: /projects/
 
 
 
-# Publications
+# Projects
 
 ## Group highlights
 
