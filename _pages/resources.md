@@ -10,6 +10,6 @@ permalink: /resources/
 # Resources
 
 
-
+Here we will show interested materials and open source tools.
 
 

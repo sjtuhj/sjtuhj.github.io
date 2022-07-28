@@ -7,7 +7,7 @@ permalink: /courses/
 ---
 
 
-# Courses
+# Courses DEMO page
 
-
+Here will be a summary of the important lessons learned.
 
